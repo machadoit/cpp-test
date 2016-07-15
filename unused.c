@@ -31,4 +31,5 @@ void foo()
     int b = abc[0].b;
     //#Info: unreadVariable
     int c = abc[0].c;
+    int d = 123;
 }
