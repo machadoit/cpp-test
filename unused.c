@@ -3,6 +3,7 @@
 int foo() {
    using namespace ::com::sun::star::i18n;
    bool b = false;
+   bool c = true;
    int j = 0;
    for (int i = 0; i < 3; i++) {
           if (!b) {
